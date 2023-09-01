@@ -1,0 +1,95 @@
+[
+  {
+    "symbol": "+",
+    "classFullName": "MathLibrary.BinaryOperations.AddOperation, MathLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "precedence": 1
+  },
+  {
+    "symbol": "-",
+    "classFullName": "MathLibrary.BinaryOperations.SubtractOperation, MathLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "precedence": 1
+  },
+  {
+    "symbol": "*",
+    "classFullName": "MathLibrary.BinaryOperations.ProductOperation, MathLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "operandCount": 2,
+    "precedence": 2
+  },
+  {
+    "symbol": "/",
+    "classFullName": "MathLibrary.BinaryOperations.DivideOperation, MathLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "precedence": 2
+  },
+  {
+    "symbol": "per",
+    "classFullName": "MathLibrary.BinaryOperations.PercentageOperation, MathLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "precedence": 2
+  },
+  {
+    "symbol": "exp",
+    "classFullName": "MathLibrary.BinaryOperations.ExponentialOperation, MathLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "precedence": 3
+  },
+  {
+    "symbol": "sqrt",
+    "classFullName": "MathLibrary.UnaryOperations.SquareRootOperation, MathLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "precedence": 4
+  },
+  {
+    "symbol": "inv",
+    "classFullName": "MathLibrary.UnaryOperations.ReciprocalOperation, MathLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "precedence": 4
+  },
+  {
+    "symbol": "sin",
+    "classFullName": "MathLibrary.UnaryOperations.SinOperation, MathLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "precedence": 4
+  },
+  {
+    "symbol": "cos",
+    "classFullName": "MathLibrary.UnaryOperations.CosOperation, MathLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "operandCount": 1,
+    "precedence": 4
+  },
+  {
+    "symbol": "tan",
+    "classFullName": "MathLibrary.UnaryOperations.TanOperation, MathLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "precedence": 4
+  },
+  {
+    "symbol": "cot",
+    "classFullName": "MathLibrary.UnaryOperations.CotOperation, MathLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "precedence": 4
+  },
+  {
+    "symbol": "sec",
+    "classFullName": "MathLibrary.UnaryOperations.SecOperation, MathLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "precedence": 4
+  },
+  {
+    "symbol": "cosec",
+    "classFullName": "MathLibrary.UnaryOperations.CosecOperation, MathLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "precedence": 4
+  },
+  {
+    "symbol": "log",
+    "classFullName": "MathLibrary.UnaryOperations.LogOperation, MathLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "precedence": 4
+  },
+  {
+    "symbol": "ln",
+    "classFullName": "MathLibrary.UnaryOperations.LognOperation, MathLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "precedence": 4
+  },
+  {
+    "symbol": "sign",
+    "classFullName": "MathLibrary.UnaryOperations.SignChangeOperation, MathLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "precedence": 4
+  },
+  {
+    "symbol": "sq",
+    "classFullName": "MathLibrary.UnaryOperations.SquareOperation, MathLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "precedence": 4
+  }
+
+]
